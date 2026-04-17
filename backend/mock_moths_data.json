@@ -1,0 +1,82 @@
+[
+  {
+    "common_name": "Common Owl Moth",
+    "scientific_name": "Erebus macrops",
+    "family_name": "Erebidae",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Erebus_macrops.jpg",
+    "description": "A very large moth with eye-spots mimicking an owl's eyes to deter predators.",
+    "damage_caused": "Minor foliage damage as a caterpillar",
+    "link": "http://www.mothsofindia.org/erebus-macrops",
+    "distributions": [
+      {
+        "moth_name": "Erebus macrops",
+        "description": "Widespread across the Indian subcontinent.",
+        "distribution_file_url": "http://example.com/erebus_macrops_dist.pdf"
+      }
+    ]
+  },
+  {
+    "common_name": "White Tailed Swallowtail Moth",
+    "scientific_name": "Micronia aculeata",
+    "family_name": "Uraniidae",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Micronia_aculeata.jpg",
+    "description": "White moth with tail-like extensions on hindwings, giving a swallowtail butterfly appearance.",
+    "damage_caused": null,
+    "link": "http://www.mothsofindia.org/micronia-aculeata",
+    "distributions": [
+      {
+        "moth_name": "Micronia aculeata",
+        "description": "Found in forests of northern and eastern India.",
+        "distribution_file_url": "http://example.com/micronia_aculeata_dist.pdf"
+      }
+    ]
+  },
+  {
+    "common_name": "Fruit Piercing Moth",
+    "scientific_name": "Eudocima phalonia",
+    "family_name": "Erebidae",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Eudocima_phalonia.jpg",
+    "description": "Adult moths pierce ripening fruit to suck juice, causing significant damage.",
+    "damage_caused": "Major agricultural pest of citrus and other fruits.",
+    "link": "http://www.mothsofindia.org/eudocima-phalonia",
+    "distributions": [
+      {
+        "moth_name": "Eudocima phalonia",
+        "description": "Present throughout tropical regions of India.",
+        "distribution_file_url": "http://example.com/eudocima_phalonia_dist.pdf"
+      }
+    ]
+  },
+  {
+    "common_name": "Oriental Monkey Moth",
+    "scientific_name": "Eupterote orientalis",
+    "family_name": "Eupterotidae",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Eupterote_testacea_1.jpg/800px-Eupterote_testacea_1.jpg",
+    "description": "Large yellowish moth with distinct lines and bands.",
+    "damage_caused": "Larvae defoliate various trees.",
+    "link": "http://www.mothsofindia.org/eupterote-orientalis",
+    "distributions": [
+      {
+        "moth_name": "Eupterote orientalis",
+        "description": "Common in Southern India.",
+        "distribution_file_url": "http://example.com/eupterote_orientalis_dist.pdf"
+      }
+    ]
+  },
+  {
+    "common_name": "Spirama Moths",
+    "scientific_name": "Spirama spp",
+    "family_name": "Erebidae",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Spirama_retorta.jpg",
+    "description": "Moths known for the large inverted comma-like marks on their forewings.",
+    "damage_caused": null,
+    "link": "http://www.mothsofindia.org/spirama-spp",
+    "distributions": [
+      {
+        "moth_name": "Spirama spp",
+        "description": "Found in various habitats across the country.",
+        "distribution_file_url": "http://example.com/spirama_spp_dist.pdf"
+      }
+    ]
+  }
+]
